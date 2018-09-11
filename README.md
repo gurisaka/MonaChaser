@@ -27,4 +27,4 @@ Example
 * 赤エッジ：attention_remittance_amount以上の送金が行われている場合
   
 ### Author
-@GuriTech (https://twitter.com/GuriTech
+@GuriTech (https://twitter.com/GuriTech)
