@@ -1,5 +1,7 @@
 # MonaChaser
-モナコインの汚染トランザクションをすべて追跡します。
+モナコインの汚染トランザクションをすべて追跡します。  
+＊現在Outputsには1.0mona以下のプールを無視した場合の出力結果が入っています。
+
 ### Useage
 `python scripts/chaser.py [transaction_json_file] [root_txids_list_file] [max_sub_graph_depth] [max_sub_graph_number] [attention_remittance_amount] [ignore_pool_amount] [output_name]`  
 * tansaction_json_file : トランザクションデータをまとめたファイルのパス
