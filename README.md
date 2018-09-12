@@ -14,7 +14,7 @@
 * output_name : 解析結果ファイルの頭につける文字列（ディレクトリも指定可）
 
 Example  
-`python scripts/chaser.py data/MONA_Transaction data/root_txids_list.txt 15 300 10000 1.0 ./Outputs/monappy_occurrence_to_0907`
+`python scripts/chaser.py data/MONA_Transactions.json data/root_txids_list.txt 15 300 10000 1.0 ./Outputs/monappy_occurrence_to_0907_depth15`
 
 ＊全未使用トランザクションを取得したいときは attention_remittance_amountを0に設定する。
 
