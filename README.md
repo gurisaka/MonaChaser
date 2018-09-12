@@ -25,9 +25,10 @@ Example
 * 赤ノード ： グラフの探索をするときの始点
 * 黒ノード ： 探索限界
 * 灰ノード ： 既に探索を別のサブグラフで行っている。末尾にサブグラフの番号がある。
-  
-  
 * 赤エッジ：attention_remittance_amount以上の送金が行われている場合
-  
+
+### License
+CC-BY-NC
+
 ### Author
 @GuriTech (https://twitter.com/GuriTech)
